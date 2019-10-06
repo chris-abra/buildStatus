@@ -6,12 +6,12 @@
     {
       "name": "LOGO_URL",
       "description": "Insert a link to your logo.",
-      "defaultValue": "https://www.passionsports.ca/wp-content/uploads/2018/04/Official-Logo.png"
+      "defaultValue": "https://svgshare.com/i/FKP.svg"
     },
     {
       "name": "LATENCY_THRESHOLD",
       "description": "Performance benchmark",
-      "defaultValue": "350"
+      "defaultValue": "3000"
     },
     {
       "name": "MAIN_PAGE_URL",
