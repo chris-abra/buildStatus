@@ -1,12 +1,12 @@
 {
   "build": "faaslang",
-  "name": "kevinb/statusPage",
-  "timeout": 40000,
+  "name": "Passion Sports/statusPage",
+  "timeout": 30000,
   "env": [
     {
       "name": "LOGO_URL",
       "description": "Insert a link to your logo.",
-      "defaultValue": "https://stdlib.com/static/images/standard-library-logo-wordmark.svg"
+      "defaultValue": "https://www.passionsports.ca/wp-content/uploads/2018/04/Official-Logo.png"
     },
     {
       "name": "LATENCY_THRESHOLD",
@@ -16,7 +16,7 @@
     {
       "name": "MAIN_PAGE_URL",
       "description": "Link to your main page",
-      "defaultValue": "https://stdlib.com"
+      "defaultValue": "https://passionsports.ca"
     }
   ]
 }
